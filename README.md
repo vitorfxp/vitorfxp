@@ -21,7 +21,7 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 - 🎓 Cursando Ciências da Computação
 - 💼 Experiência formal em desenvolvimento de software
 - 🌎 Aberto a oportunidades remotas e presenciais
-- 📍 Mato Grosso, Brasil
+- 📍 Rondônia, Brasil
 
 ---
 
@@ -30,8 +30,6 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
@@ -42,7 +40,6 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Ferramentas & Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,54 +51,39 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 
 ## 💼 Experiência
 
-### Desenvolvedor Fullstack · [Nome da Empresa] *(mês/ano – atual)*
+### Engenheiro de software · SEDAM *(09/2025 – atual)*
 > Substitua com a descrição real da sua experiência
 
-- Desenvolvimento e manutenção de APIs REST com **Java + Spring Boot**, com foco em performance e segurança
+- Desenvolvimento e manutenção de APIs REST com **Typescript + Fastify**, com foco em performance e segurança
 - Construção de interfaces modernas com **React e TypeScript**, integradas ao backend via REST
 - Participação em code reviews, definição de arquitetura e documentação técnica
 - Colaboração em equipe utilizando metodologias ágeis (Scrum/Kanban)
-
-> 💡 *Adicione outras experiências no mesmo formato acima, se houver*
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### [Nome do Projeto 1](https://github.com/vitorfxp/REPOSITORIO)
-> Descrição clara: o que faz, qual problema resolve e para quem
+### [Bikcraft](https://github.com/vitorfxp/Bikcraft)
+> E-commerce com lógica de estoque, compra e vendas de produtos, se há produtos em estoque. Foco em responsividade e acessibilidade digital.
 
-- **Stack:** Java, Spring Boot, React, TypeScript, MySQL
-- **Destaques:** autenticação JWT, arquitetura em camadas, deploy containerizado com Docker
-- 🔗 [Ver repositório](https://github.com/vitorfxp/REPOSITORIO) · [Demo ao vivo](https://SEU_LINK.com)
-
----
-
-### [Nome do Projeto 2](https://github.com/vitorfxp/REPOSITORIO)
-> Descrição clara: o que faz, qual problema resolve e para quem
-
-- **Stack:** Next.js, TypeScript, Tailwind CSS, Laravel, PostgreSQL
-- **Destaques:** SSR para SEO otimizado, integração com API externa, CI/CD com GitHub Actions
-- 🔗 [Ver repositório](https://github.com/vitorfxp/REPOSITORIO) · [Demo ao vivo](https://SEU_LINK.com)
+- **Stack:** HTML, CSS, JavaScript
+- **Destaques:** Responsividade, Domínio claro em noções system design e UI/UX Design.
+- 🔗 [Ver repositório](https://github.com/vitorfxp/Bikcraft) · [Website](https://bikcraft-pro.netlify.app/)
 
 ---
 
-### [Nome do Projeto 3](https://github.com/vitorfxp/REPOSITORIO)
-> Descrição clara: o que faz, qual problema resolve e para quem
+### [Gestor de processos](https://github.com/vitorfxp/gestor-processos)
+> É um sistema inspirado no trello para controle e gestáo de atividades, processos e tasks atuais dentro de um time desenvolvimento de software.
 
-- **Stack:** React, JavaScript, Node.js
-- **Destaques:** descreva o diferencial técnico real deste projeto
-- 🔗 [Ver repositório](https://github.com/vitorfxp/REPOSITORIO)
+- **Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
+- **Destaques:** Deploy e configuração na vercel, integração com API externa.
+- 🔗 [Ver repositório](https://github.com/vitorfxp/gestor-processos) 
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![João Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfxp&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfxp&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vitorfxp&theme=github-dark-blue&hide_border=true)
 
@@ -119,6 +101,6 @@ Busco oportunidades como **Desenvolvedor Fullstack** (Pleno ou Júnior avançado
 
 *Sinta-se à vontade para explorar meus repositórios ou me chamar para conversar!*
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joão-vitor-ferreira-ribeiro-a9ab121b4)
 
 </div>
