@@ -24,7 +24,7 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 
 ---
 
-## 🛠 Stack Técnica
+## 🛠 Conhecimentos técnicos
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
