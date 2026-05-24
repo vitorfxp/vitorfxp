@@ -52,11 +52,13 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 ## 💼 Experiência
 
 ### Engenheiro de software · SEDAM *(09/2025 – atual)*
-> Substitua com a descrição real da sua experiência
 
 - Desenvolvimento e manutenção de APIs REST com **Typescript + Fastify**, com foco em performance e segurança
-- Construção de interfaces modernas com **React e TypeScript**, integradas ao backend via REST
-- Participação em code reviews, definição de arquitetura e documentação técnica
+- Contribuí na API de Pagamentos com base na Lei do RECAM, integrando a API da SEFIN
+e implementando lógica de parcelamento e cálculo de valores de forma intuitiva para o
+usuário final
+- Atuei na manutenção e evolução de APIs e interfaces web, implementando correções de
+bugs e novas features com foco em melhoria contínua.
 - Colaboração em equipe utilizando metodologias ágeis (Scrum/Kanban)
 
 ---
