@@ -73,12 +73,12 @@ bugs e novas features com foco em melhoria contínua.
 
 ---
 
-### [Gestor de processos](https://github.com/vitorfxp/gestor-processos)
+### [Gestor de processos](https://github.com/vitorfxp/GestorDeProcessos)
 > É um sistema inspirado no trello para controle e gestáo de atividades, processos e tasks atuais dentro de um time desenvolvimento de software.
 
 - **Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
 - **Destaques:** Deploy e configuração na vercel, integração com API externa.
-- 🔗 [Ver repositório](https://github.com/vitorfxp/gestor-processos) 
+- 🔗 [Ver repositório](https://github.com/vitorfxp/GestorDeProcessos) 
 
 ---
 
