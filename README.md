@@ -1,6 +1,6 @@
 # 🧑‍💻 João Vitor Ferreira Ribeiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Vitor Ferreira Ribeiro. Atualmente, estou cursando Ciências da Computação. Sou um resolvedor natural de problemas utilizando programação para criar sistemas e sites web.
 
