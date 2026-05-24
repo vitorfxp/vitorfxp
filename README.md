@@ -4,9 +4,9 @@
 
 **Desenvolvedor Fullstack** · Java & Spring Boot · TypeScript · React · Next.js
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-ferreira-ribeiro-a9ab121b4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vitorfxp.github.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorpvh777@gmail.com)
 
 </div>
 
@@ -101,6 +101,6 @@ Busco oportunidades como **Desenvolvedor Fullstack** (Pleno ou Júnior avançado
 
 *Sinta-se à vontade para explorar meus repositórios ou me chamar para conversar!*
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joão-vitor-ferreira-ribeiro-a9ab121b4)
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-ferreira-ribeiro-a9ab121b4)
 
 </div>
