@@ -14,12 +14,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Fullstack cursando Ciências da Computação, com experiência formal no desenvolvimento de aplicações web robustas e escaláveis. Atuo no backend com **Java + Spring Boot**, construindo APIs REST bem estruturadas, e no frontend com **TypeScript, React e Next.js**, entregando interfaces modernas e performáticas.
+Desenvolvedor Fullstack cursando Ciências da Computação, com experiência no desenvolvimento de aplicações web robustas e escaláveis. Atuo no backend com **Java + Spring Boot**, construindo APIs REST bem estruturadas, e no frontend com **TypeScript, React e Next.js**, entregando interfaces modernas e performáticas.
 
 Tenho foco em escrever código limpo, orientado a boas práticas e com atenção real à experiência do usuário. Gosto de resolver problemas complexos de ponta a ponta — desde a modelagem do banco até a interface final.
 
-- 🎓 Cursando Ciências da Computação
-- 💼 Experiência formal em desenvolvimento de software
+- 💼 Experiência em desenvolvimento de software
 - 🌎 Aberto a oportunidades remotas e presenciais
 - 📍 Rondônia, Brasil
 
