@@ -18,13 +18,13 @@ Desenvolvedor Fullstack cursando Ciências da Computação, com experiência no 
 
 Tenho foco em escrever código limpo, orientado a boas práticas e com atenção real à experiência do usuário. Gosto de resolver problemas complexos de ponta a ponta — desde a modelagem do banco até a interface final.
 
-- 💼 Experiência em desenvolvimento de software
-- 🌎 Aberto a oportunidades remotas e presenciais
-- 📍 Rondônia, Brasil
+-  Experiência em desenvolvimento de software
+-  Aberto a oportunidades remotas e presenciais
+-  Rondônia, Brasil
 
 ---
 
-## 🛠 Conhecimentos técnicos
+## Conhecimentos técnicos
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +48,7 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 ### Engenheiro de software · SEDAM *(09/2025 – atual)*
 
@@ -62,7 +62,7 @@ bugs e novas features com foco em melhoria contínua.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 ### [Bikcraft](https://github.com/vitorfxp/Bikcraft)
 > E-commerce com lógica de estoque, compra e vendas de produtos, se há produtos em estoque. Foco em responsividade e acessibilidade digital.
@@ -82,7 +82,7 @@ bugs e novas features com foco em melhoria contínua.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,7 @@ bugs e novas features com foco em melhoria contínua.
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo Profissional
 
 Busco oportunidades como **Desenvolvedor Fullstack** (Pleno ou Júnior avançado), com foco em projetos que utilizem **Java/Spring Boot** no backend e **React/Next.js** no frontend. Aberto a regime CLT ou PJ, remoto ou híbrido.
 
