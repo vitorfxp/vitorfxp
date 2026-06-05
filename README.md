@@ -82,16 +82,6 @@ bugs e novas features com foco em melhoria contínua.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vitorfxp&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
 ## Objetivo Profissional
 
 Busco oportunidades como **Desenvolvedor Fullstack** (Pleno ou Júnior avançado), com foco em projetos que utilizem **Java/Spring Boot** no backend e **React/Next.js** no frontend. Aberto a regime CLT ou PJ, remoto ou híbrido.
