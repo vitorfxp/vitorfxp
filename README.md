@@ -72,6 +72,14 @@ bugs e novas features com foco em melhoria contínua.
 - 🔗 [Ver repositório](https://github.com/vitorfxp/Bikcraft) · [Website](https://bikcraft-pro.netlify.app/)
 
 ---
+### [API de cadastros](https://github.com/vitorfxp/API-Cadastro)
+> Uma API feita em Java + SpringBoot com documentação em Swagger.
+
+- **Stack:** Java, SpringBoot
+- **Destaques:** Domínio ao Spring Boot junto ao desenvolvimento de API'S modernas.
+- 🔗 [Ver repositório](https://github.com/vitorfxp/API-Cadastro)
+
+---
 
 ### [Gestor de processos](https://github.com/vitorfxp/GestorDeProcessos)
 > É um sistema inspirado no trello para controle e gestáo de atividades, processos e tasks atuais dentro de um time desenvolvimento de software.
