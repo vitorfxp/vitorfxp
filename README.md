@@ -30,7 +30,7 @@ Tenho foco em escrever código limpo, orientado a boas práticas e com atenção
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.Js](https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-06402b?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
